@@ -1,7 +1,6 @@
-# Drupal with PostgreSQL
+# Drupal with MySQL
 #
 # Access via "http://localhost:8080"
-#   (or "http://$(docker-machine ip):8080" if using docker-machine)
 #
 # During initial Drupal setup,
 # Database type: MySQL
